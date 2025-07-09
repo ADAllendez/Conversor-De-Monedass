@@ -48,7 +48,7 @@ Todo en una interfaz limpia desde consola.
 
 <h1>🛠️ Tecnologías usadas</h1>
 
-☕ Java 17  
+☕ Java 21  
 🔗 HttpClient (nativo en Java 11+)  
 📦 Gson (parseo de JSON)  
 📤 ExchangeRate API (https://www.exchangerate-api.com/)  
