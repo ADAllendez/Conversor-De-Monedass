@@ -54,7 +54,7 @@ public class Main {
                 System.out.printf("💰 Resultado: %.2f %s = %.2f %s%n", monto, origen, resultado, destino);
 
             } else {
-                System.out.println("Opcion invalida");
+                System.out.println("-> Opcion invalida");
             }
 
         }
